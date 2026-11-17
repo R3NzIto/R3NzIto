@@ -8,10 +8,11 @@ aplicaciones web, apps móviles, sistemas de gestión y automatizaciones.
 
 ## Proyectos destacados
 
-### 🐾 Patas Seguras · sistema de gestión veterinaria
+### 🐾 Patas Seguras · sistema de gestión veterinaria · [caso de estudio](https://github.com/R3NzIto/patas-seguras-showcase)
 Clientes, mascotas, historial clínico, turnos, pagos y obra social para una veterinaria chica.
 Next.js · Supabase (Postgres + RLS) · Tailwind · Vitest · Playwright · Cloudflare
 > El código es privado porque es un proyecto de un cliente con datos reales.
+> El caso de estudio tiene capturas, la arquitectura y las decisiones técnicas.
 
 ### 🎮 Team Anexo · [sitio web](https://team-anexo-eventos.vercel.app) · [código](https://github.com/R3NzIto/Team-anexo-Eventos-)
 Sitio de una productora de torneos de fighting games en Mendoza: rankings por temporada,
